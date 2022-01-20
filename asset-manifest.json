@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/superChat/static/css/main.0b0e1f3a.chunk.css",
+    "main.js": "/superChat/static/js/main.5913338f.chunk.js",
+    "main.js.map": "/superChat/static/js/main.5913338f.chunk.js.map",
+    "runtime-main.js": "/superChat/static/js/runtime-main.cf94d2e4.js",
+    "runtime-main.js.map": "/superChat/static/js/runtime-main.cf94d2e4.js.map",
+    "static/css/2.3f4110c8.chunk.css": "/superChat/static/css/2.3f4110c8.chunk.css",
+    "static/js/2.6df8b0a4.chunk.js": "/superChat/static/js/2.6df8b0a4.chunk.js",
+    "static/js/2.6df8b0a4.chunk.js.map": "/superChat/static/js/2.6df8b0a4.chunk.js.map",
+    "index.html": "/superChat/index.html",
+    "precache-manifest.709b4d4b8a644ae3aaccbb2fb63a9951.js": "/superChat/precache-manifest.709b4d4b8a644ae3aaccbb2fb63a9951.js",
+    "service-worker.js": "/superChat/service-worker.js",
+    "static/css/2.3f4110c8.chunk.css.map": "/superChat/static/css/2.3f4110c8.chunk.css.map",
+    "static/css/main.0b0e1f3a.chunk.css.map": "/superChat/static/css/main.0b0e1f3a.chunk.css.map",
+    "static/js/2.6df8b0a4.chunk.js.LICENSE.txt": "/superChat/static/js/2.6df8b0a4.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/superChat/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logo.png": "/superChat/static/media/logo.835148a5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf94d2e4.js",
+    "static/css/2.3f4110c8.chunk.css",
+    "static/js/2.6df8b0a4.chunk.js",
+    "static/css/main.0b0e1f3a.chunk.css",
+    "static/js/main.5913338f.chunk.js"
+  ]
+}
